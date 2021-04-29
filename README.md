@@ -1,3 +1,4 @@
+https://janikvonrotz.ch/2020/02/26/nginx-waf-with-modsecurity-and-owasp-crs/
 
 # Nginx ModSecurity CRS
 
